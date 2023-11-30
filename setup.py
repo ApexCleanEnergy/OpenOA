@@ -23,7 +23,7 @@ REQUIRED = [
     "tqdm>=4.28.1",
     "matplotlib>=3.6",
     "bokeh>=2.4",
-    "attrs>=22",
+    "attrs>=20",
     "pytz",
     "h5pyd",
     "pyyaml",
