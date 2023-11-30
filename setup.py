@@ -15,7 +15,7 @@ REQUIRED = [
     "eia-python>=1.22",
     "pyproj>=3.5",
     "shapely>=1.8",
-    "numpy>=1.24",
+    "numpy",
     "pandas>=2.0",
     "pygam>=0.9.0",
     "scipy>=1.7",
